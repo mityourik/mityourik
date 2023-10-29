@@ -1,8 +1,8 @@
 # Здоров
 <p align="center">
   <img src="https://img.shields.io/badge/статус-активен-brightgreen.svg" alt="Статус проекта">
-  <img src="https://img.shields.io/github/license/ваш-локальный-репозиторий" alt="Лицензия">
-  <img src="https://img.shields.io/github/repo-size/ваш-локальный-репозиторий" alt="Размер репозитория">
+  <img src="https://img.shields.io/github/license/mityourik" alt="Лицензия">
+  <img src="https://img.shields.io/github/repo-size/mityourik" alt="Размер репозитория">
 </p>
 
 ## Описание
