@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/header_img.png" alt="Скриншот 2" width="400">
+  <img href="https://qtcinfotech.com/images/web-development/cms-website-development-service.gif" alt="Скриншот 2" width="400">
 </p>
 
 <p align="center" style="color: black; font-size: 16px">Мой стэк:</p>
