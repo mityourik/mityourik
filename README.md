@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/gifYandexP.gif" alt="Скриншот 2" width="100%">
+  <img src="./images/ezgif-2-00650f8e58.gif" alt="Скриншот 2" width="100%">
 </p>
 
 <p align="center" style="color: black; font-size: 16px">Мой стэк:</p>
