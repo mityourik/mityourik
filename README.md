@@ -1,5 +1,5 @@
-<h1 align="center" style="color: black;">&hearts;</h1>
-<h4 align="center" style="color: black;">Я, студент Яндекс Практикум</h4>
+<p align="center" style="color: black; font-size: 25px">&hearts;</p>
+<p align="center" style="color: black;">Я, Дима, студент Яндекс Практикума</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WebDeveloper-in progress-yellow.svg" alt="Статус изучения профессии" style="margin: 10px;">
@@ -10,9 +10,9 @@
   <img src="./images/header_img.png" alt="Скриншот 2" width="400">
 </p>
 
-<h3 align="left" style="margin: 5px;">Обо мне:</h3>
+<p align="left" style="margin: 5px; color: black; font-size: 20px">Обо мне:</p>
 <li>филолог</li>
 <li>инженер-строитель</li>
 <li>веб-разработчик</li> 
 
-<a align="center">Разработка сайта</a>
+<h3 align="center">мои работы тут &darr;</h3>
