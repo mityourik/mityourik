@@ -1,4 +1,4 @@
-<p align="center" style="color: black; font-size: 25px">⛰️</p>
+<p align="center" style="color: black; font-size: 25px">Привет!</p>
 <p align="center" style="color: black;">Я, студент Яндекс Практикума</p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img href="https://qtcinfotech.com/images/web-development/cms-website-development-service.gif" alt="Скриншот 2" width="400">
+  <img src="./images/gifYandexP.gif" alt="Скриншот 2" width="100%">
 </p>
 
 <p align="center" style="color: black; font-size: 16px">Мой стэк:</p>
