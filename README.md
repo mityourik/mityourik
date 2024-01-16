@@ -37,4 +37,4 @@
   </a>
 </div>
 
-<p align="center" style="color: black;">Check it out &darr;</p>
+<p align="center" style="color: black; margin: 15px">Check this shit out &darr;</p>
