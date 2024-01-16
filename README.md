@@ -1,30 +1,40 @@
-<p align="center" style="color: black; font-size: 25px">Привет!</p>
-<p align="center" style="color: black;">Я, студент Яндекс Практикума</p>
+<p align="center" style="color: black; font-size: 15px">Привет! Hello! Hola!</p>
+<p align="center" style="color: black;">I'm web / frontend developer.</p>
+
+---
+
+<p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">About me:
+</p>
+<img src="./images/giphy.gif" alt="Скриншот 2" width="100%" style="border-radius: 4px">
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WebDeveloper-in progress-yellow.svg" alt="Статус изучения профессии" style="margin: 10px;">
-  <img src="https://img.shields.io/badge/YandexPraktikum-in progress-yellow.svg" alt="Статус изучения профессии" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/WebDeveloper-in progress-1A4730.svg" alt="Статус изучения профессии" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/YandexPraktikum-in progress-1A4730.svg" alt="Статус изучения профессии" style="margin: 10px;">
 </p>
 
+<p align="center" style="color: black; font-size: 13px">My skills:</p>
 <p align="center">
-  <img src="./images/ezgif-2-00650f8e58.gif" alt="Скриншот 2" width="100%">
+  <img src="https://img.shields.io/badge/JavaScript-1A4730?logo=javascript&logoColor=f5f5f5" alt="Статус изучения профессии" style="">
+  <img src="https://img.shields.io/badge/-Git-1A4730?logo=git&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
+  <img src="https://img.shields.io/badge/-HTML5-1A4730?logo=html5&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
+  <img src="https://img.shields.io/badge/-CSS3-1A4730?logo=CSS3&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
+  <img src="https://img.shields.io/badge/-React-1A4730?logo=react&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
+  <img src="https://img.shields.io/badge/-MongoDB-1A4730?logo=mongoDb&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
+  <img src="https://img.shields.io/badge/-NodeExpress-1A4730?logo=express&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
 </p>
 
-<p align="center" style="color: black; font-size: 16px">Мой стэк:</p>
+---
+<p align="center" style="color: black;">Get in touch with me through:</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-blue?logo=git&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
-  <img src="https://img.shields.io/badge/-HTML5-blue?logo=html5&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=CSS3&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
-  <img src="https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=f5f5f5" alt="Статус изучения профессии" style="">
-  <img src="https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
-  <img src="https://img.shields.io/badge/-MongoDB-blue?logo=mongoDb&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
-  <img src="https://img.shields.io/badge/-NodeExpress-blue?logo=express&logoColor=white&style=flat" alt="Статус изучения профессии" style="">
-</p>
+<div align="center">
+  <a href="https://t.me/dmitryho">
+    <img alt="Dmitry's Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
+  </a>
+  <a href="mailto:dmitrihorlov@gmail.com">
+    <img alt="Mikhail's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</div>
 
-<p align="left" style="margin: 0 5px; color: black; font-size: 16px">Обо мне:</p>
-<li>филолог</li>
-<li>инженер-строитель</li>
-<li>веб-разработчик</li> 
-
-<h3 align="center">мои работы тут &darr;</h3>
+<p align="center" style="color: black;">Check it out &darr;</p>
