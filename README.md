@@ -6,7 +6,8 @@
 <p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">About me:
 </p>
 <img src="./images/giphy.gif" alt="Скриншот 2" width="100%" style="border-radius: 4px; border: 1px solid #1A4730">
-#running #snowboard #climbing #civil-engineer #philologist #video-production #motion-design
+<p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">#running #snowboard #climbing #civil-engineer #philologist #video-production #motion-design
+</p>
 
 ---
 
