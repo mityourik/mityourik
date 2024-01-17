@@ -38,9 +38,7 @@
     />
   </a>
 </div>
-
-<div align="center" style="margin: 20px">
-  <p style="color: black">
-    Check this out &darr;
-  </p>
-</div>
+<br>
+<p style="color: black" align="center">
+  Check this out &darr;
+</p>
