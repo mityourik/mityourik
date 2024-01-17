@@ -30,11 +30,17 @@
 
 <div align="center">
   <a href="https://t.me/dmitryho">
-    <img alt="Dmitry's Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
+    <img alt="Dmitry's Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white"
+    />
   </a>
   <a href="mailto:dmitrihorlov@gmail.com">
-    <img alt="Mikhail's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
+    <img alt="Mikhail's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" 
+    />
   </a>
 </div>
 
-<p align="center" style="color: black; margin: 15px 15px 15px 15px;">Check this shit out &darr;</p>
+<div align="center" style="margin: 20px">
+  <p style="color: black">
+    Check this out &darr;
+  </p>
+</div>
