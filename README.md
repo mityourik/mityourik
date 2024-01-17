@@ -5,6 +5,7 @@
 
 <p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">About me:
 </p>
+<img src="./images/bd76377e-0e96-4450-afcd-7e548112f234.gif" alt="Скриншот 2" width="100%" height="25px" style="object-fit: cover">
 <img src="./images/giphy.gif" alt="Скриншот 2" width="100%" style="border-radius: 4px; border: 1px solid #1A4730">
 <p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">#running #snowboard #climbing #civil-engineer #philologist #video-production #motion-design
 </p>
