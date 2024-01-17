@@ -45,5 +45,5 @@
 </div>
 <br>
 <p style="color: black" align="center">
-  Check this out &darr;
+  And check this out &darr;
 </p>
