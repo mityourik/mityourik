@@ -37,6 +37,9 @@
     <img alt="Mikhail's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" 
     />
   </a>
+  <a href="https://www.instagram.com/mityourik/">
+    <img alt="Mityourik's Instagram" src="https://img.shields.io/badge/-Instagram-1A4730?style=flat-square&logo=Instagram&logoColor=white" />
+</a>
 </div>
 <br>
 <p style="color: black" align="center">
