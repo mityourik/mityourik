@@ -1,4 +1,4 @@
-<p align="center" style="color: black; font-size: 15px">Привет! Hello! Hola!</p>
+<p align="center" style="color: black; font-size: 15px">Yow</p>
 <p align="center" style="color: black;">I'm web / frontend developer.</p>
 
 ---
