@@ -4,18 +4,21 @@
 ---
 
 <p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">About me:
+<p align="center">
+  <!-- <img src="https://img.shields.io/badge/WebDeveloper-in progress-1A4730.svg" alt="Статус изучения профессии" style="margin: 10px;"> -->
+  <img src="https://img.shields.io/badge/YandexPraktikum-in progress-1A4730.svg" alt="Статус изучения профессии">
 </p>
-<img src="./images/ScreenRecording2024-01-17at20.02.28-ezgif.com-video-to-gif-converter.gif" alt="гифка ищу работу" width="100%">
-<img src="./images/giphy.gif" alt="гифка айтишник" width="100%">
+</p>
+
+<div align="center">
+  <img src="./images/ScreenRecording2024-01-17at20.02.28-ezgif.com-video-to-gif-converter.gif" alt="гифка ищу работу" width="80%">
+  <img src="./images/giphy.gif" alt="гифка айтишник" width="80%">
+</div>
+
 <p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">#running #snowboard #climbing #civil-engineer #philologist #video-production #motion-design
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WebDeveloper-in progress-1A4730.svg" alt="Статус изучения профессии" style="margin: 10px;">
-  <img src="https://img.shields.io/badge/YandexPraktikum-in progress-1A4730.svg" alt="Статус изучения профессии" style="margin: 10px;">
-</p>
 
 <p align="center" style="color: black; font-size: 13px">My skills:</p>
 <p align="center">
