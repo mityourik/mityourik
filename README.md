@@ -23,12 +23,15 @@
 <p align="center" style="color: black; font-size: 13px">My skills:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-1A4730?logo=javascript&logoColor=f5f5f5" alt="logo JavaScript" style="">
+  <img src="https://img.shields.io/badge/TypeScript-1A4730?logo=typescript&logoColor=f5f5f5" alt="logo JavaScript" style="">
+  <img src="https://img.shields.io/badge/Redux-1A4730?logo=redux&logoColor=f5f5f5" alt="logo JavaScript" style="">
   <img src="https://img.shields.io/badge/-Git-1A4730?logo=git&logoColor=white&style=flat" alt="logo git" style="">
   <img src="https://img.shields.io/badge/-HTML5-1A4730?logo=html5&logoColor=white&style=flat" alt="logo html" style="">
   <img src="https://img.shields.io/badge/-CSS3-1A4730?logo=CSS3&logoColor=white&style=flat" alt="logo css" style="">
   <img src="https://img.shields.io/badge/-React-1A4730?logo=react&logoColor=white&style=flat" alt="logo react" style="">
   <img src="https://img.shields.io/badge/-MongoDB-1A4730?logo=mongoDb&logoColor=white&style=flat" alt="logo mongodb" style="">
   <img src="https://img.shields.io/badge/-NodeExpress-1A4730?logo=express&logoColor=white&style=flat" alt="Logo node express" style="">
+  <img src="https://img.shields.io/badge/-SASS/SCSS-1A4730?logo=sass&logoColor=white&style=flat" alt="Logo node express" style="">
 </p>
 
 ---
