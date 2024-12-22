@@ -15,7 +15,7 @@
   <img src="./images/giphy.gif" alt="гифка айтишник" width="80%">
 </div>
 
-<p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">#running #snowboard #climbing #civil-engineer #philologist #video-production #motion-design
+<p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">#running #snowboard #civil-engineer #skate #bodyboard #stop war
 </p>
 
 ---
