@@ -5,13 +5,13 @@
 
 <p align="center" style="margin: 0 5px 5px 0; color: black; font-size: 14px">About me:
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/WebDeveloper-in progress-1A4730.svg" alt="Статус изучения профессии" style="margin: 10px;"> -->
+  <img src="https://img.shields.io/badge/WebDeveloper-in progress-1A4730.svg" alt="Статус изучения профессии" style="margin: 10px;">
   <img src="https://img.shields.io/badge/Result_University-in progress-1A4730.svg" alt="Статус изучения профессии">
 </p>
 </p>
 
 <div align="center">
-  <img src="./images/ScreenRecording2024-01-17at20.02.28-ezgif.com-video-to-gif-converter.gif" alt="гифка ищу работу" width="80%">
+  <!-- <img src="./images/looking-a-job.gif" alt="гифка ищу работу" width="80%"> -->
   <img src="./images/giphy.gif" alt="гифка айтишник" width="80%">
 </div>
 
