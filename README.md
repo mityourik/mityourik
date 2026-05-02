@@ -10,6 +10,10 @@
     <td>Frontend Developer @ <b>SBER A</b> — Vue.js, React, SQL, XML/SOAP, C#, jQuery&rarr;Vue legacy migration, high-load fintech</td>
   </tr>
   <tr>
+    <td align="center"><b>Previously</b></td>
+    <td>Frontend Developer @ <b>BRONFOOD</b> (startup) — React, TypeScript, React Query, food delivery SPA</td>
+  </tr>
+  <tr>
     <td align="center"><b>Before</b></td>
     <td>Construction control expert — Industrial & Civil Engineering</td>
   </tr>
