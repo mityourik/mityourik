@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td align="center"><b>Now</b></td>
-    <td>Frontend Developer @ <b>SBER</b> — Vue.js, fintech, high-load</td>
+    <td>Frontend Developer @ <b>SBER A</b> — Vue.js, React, SQL, XML/SOAP, C#, jQuery&rarr;Vue legacy migration, high-load fintech</td>
   </tr>
   <tr>
     <td align="center"><b>Before</b></td>
@@ -60,8 +60,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mityourik&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333&icon_color=1A4730" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mityourik&hide_border=true&background=00000000&ring=1A4730&fire=1A4730&currStreakLabel=1A4730" alt="GitHub Streak" width="48%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mityourik&hide_border=true&background=00000000&ring=1A4730&fire=1A4730&currStreakLabel=1A4730&currStreakNum=ccc&sideNums=ccc&sideLabels=999&dates=666" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mityourik&hide_border=true&background=00000000&ring=1A4730&fire=1A4730&currStreakLabel=1A4730" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mityourik&hide_border=true&background=00000000&ring=1A4730&fire=1A4730&currStreakLabel=1A4730" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
