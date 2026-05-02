@@ -18,7 +18,9 @@
     <td>
       <a href="https://github.com/mityourik/runlord"><b>runlord</b></a> — endurance runner's diary<br>
       <sub>Strava webhooks &rarr; activity classification &rarr; Telegram Mini App review flow &rarr; voice input (STT) &rarr; confirmed workout diary.<br>
-      Node.js, PostgreSQL, Strava OAuth, Telegram Bot API.</sub>
+      Node.js, PostgreSQL, Strava OAuth, Telegram Bot API.</sub><br><br>
+      <a href="https://ndrw.ru"><b>ndrw.ru</b></a> — platform for railway construction companies<br>
+      <sub>React, TypeScript, PostgreSQL, Python.</sub>
     </td>
   </tr>
   <tr>
